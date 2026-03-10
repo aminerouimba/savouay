@@ -1,0 +1,26 @@
+{
+  "name": "Questionnaire de Santé – Spa",
+  "short_name": "QS Spa",
+  "description": "Questionnaire de santé confidentiel pour votre expérience spa personnalisée",
+  "id": "/QS.htm",
+  "start_url": "./QS.htm",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f5f1",
+  "theme_color": "#a8b5a2",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
